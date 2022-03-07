@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20191102ZSOK",
+    "children" : [ {
+      "name" : "20556-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "6b85598d1261871f",
+        "parentUid" : "b866acc7b831af0284b8e192e35933a2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645423147612,
+          "stop" : 1645423157514,
+          "duration" : 9902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b866acc7b831af0284b8e192e35933a2"
+    } ],
+    "uid" : "c6b1b68865e2aa01dac7aa2b73b4bcc1"
+  } ]
+}

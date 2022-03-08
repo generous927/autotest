@@ -17,5 +17,5 @@ def test_login():
     # 如果存在成功，不存在失败
     time.sleep(1) # 等待1秒
     page_source = driver.page_source # 表示获取页面所以源码内容
-    assert '账号不存在' in page_source
+    assert '登录' in page_source
 
